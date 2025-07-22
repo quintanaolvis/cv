@@ -1,93 +1,93 @@
 # Olvis Quintana
 
 **Lead Engineer | Full Stack Developer | AI Specialist**  
-📍 Currently based in Lima. Perú · Open to remote opportunities
+📍 Currently based in Lima, Perú · Open to remote opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@OlvisQuintana-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/olvisquintana/)
 [![Email](https://img.shields.io/badge/quintanaolvis@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:quintanaolvis@gmail.com)
-[![Github](https://img.shields.io/badge/Github-quintanaolvis-487FCF?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/olvisquintana)
+[![GitHub](https://img.shields.io/badge/GitHub-quintanaolvis-487FCF?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/olvisquintana)
+[![Call](https://img.shields.io/badge/Call-%2B51%20935%20220229-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)]([tel:+51935220229](https://api.whatsapp.com/send?phone=51935123456&text=Hello%20from%20github))
 
 ---
 
 ## 🚀 Professional Experience
 
-### **Lead Engineer – NTT DATA Europe & Latam**
-
+### **Lead Engineer – NTT DATA Europe & Latam**  
 📍 February 2025 – Present
 
-Leading high-impact technological solutions for clients across Europe and Latin America, combining scalable architecture, intelligent automation, and strategies based on generative AI.
+Leading high-impact technological solutions for clients across Europe and Latin America. I focus on scalable architectures, intelligent automation, and the strategic application of generative AI to solve complex business challenges.
 
 ---
 
-### **Full Stack Developer – Innovation Center, Banco de Crédito del Perú (BCP)**
-
+### **Full Stack Developer – Innovation Center, Banco de Crédito del Perú (BCP)**  
 📍 July 2023 – January 2025
 
-Designed and built scalable technological solutions to drive digital transformation in the financial sector, combining technical expertise with innovation to deliver tailored, high-impact applications for the banking ecosystem.
+Designed and developed scalable tech solutions to support BCP’s digital transformation. Delivered full-stack applications combining innovation, performance, and security for the financial ecosystem.
 
 #### 🔧 Backend (Node.js, Azure)
-
-- Developed robust, secure APIs using **Node.js** and **TypeScript**.
-- Integrated **Azure Functions**, **API Management**, and **CI/CD pipelines**.
-- Ensured scalable, efficient solutions aligned with BCP’s technical standards.
+- Developed robust APIs using **Node.js** and **TypeScript**, following enterprise-level standards.
+- Integrated solutions with **Azure Functions**, **API Management**, and **CI/CD pipelines** for secure and scalable deployments.
+- Automated and optimized financial operations through microservice-based architectures.
 
 #### 🎨 Frontend (Angular)
-
-- Built dynamic, responsive interfaces with **Angular** and **TypeScript**.
-- Connected frontend to backend services for seamless performance and UX.
+- Built responsive, high-performance UIs using **Angular** and **RxJS**.
+- Ensured seamless frontend-backend integration for real-time banking applications.
 
 #### 🤖 Artificial Intelligence (Python, LLMs)
-
-- Led the development of intelligent agents and automated workflows powered by **Python** and **generative AI**.
-- Specialized in **Prompt Engineering**, **Tool Calling**, and **Retrieval-Augmented Generation (RAG)** to optimize interactions with external tools and automate financial processes.
+- Led the creation of intelligent agents and workflow automations using **Python** and **LLMs** (e.g., OpenAI, LangChain).
+- Implemented **Prompt Engineering**, **Tool Calling**, and **RAG (Retrieval-Augmented Generation)** to enable context-aware automation.
+- Streamlined internal banking operations through generative AI and structured knowledge pipelines.
 
 ---
 
 ## 💡 Technologies & Tools
 
-- **Languages:** TypeScript, JavaScript, Python, SQL
-- **Frontend:** Angular, HTML5, CSS3
-- **Backend:** Node.js, Express.js, Azure Functions
-- **Cloud & DevOps:** Azure, API Management, CI/CD Pipelines, Docker
-- **AI/ML:** OpenAI GPT, LangChain, FAISS, Prompt Engineering, LLMs, RAG
-- **Databases:** PostgreSQL, MongoDB
-- **Others:** Git, GitHub, GitLab, Jira, VS Code, Figma
+- **Languages:** TypeScript, JavaScript, Python, SQL  
+- **Frontend:** Angular, HTML5, CSS3  
+- **Backend:** Node.js, Express.js, Azure Functions  
+- **Cloud & DevOps:** Azure, API Management, CI/CD Pipelines, Docker  
+- **AI/ML:** OpenAI, LangChain, FAISS, Prompt Engineering, LLMs, RAG  
+- **Databases:** PostgreSQL, MongoDB  
+- **Tools:** Git, GitHub, GitLab, Jira, VS Code, Figma
 
 ---
 
 ## 🎓 Education
 
 **Bachelor’s Degree in Systems Engineering**  
-National Polytechnic Experimental University of the Armed Forces (UNEFA). – Caracas, Venezuela  
-📅 2013
+National Polytechnic Experimental University of the Armed Forces (UNEFA) – Caracas, Venezuela  
+📅 Graduated: 2013
 
 ---
 
 ## 🗣️ Languages
 
-- Spanish: Native
-- English: Upper-intermediate (strong technical communication)
+- Spanish: Native  
+- English: Upper-intermediate (strong technical communication)  
+- German: Basic (in progress)
+
 ---
 
-## 📌 Professional Profile
+## 📌 Professional Summary
 
-Passionate about innovation and intelligent automation, I bring together full stack development and generative AI to build impactful solutions for the banking sector. I contribute with a strategic, results-driven mindset focused on scalable, high-performing products. Always open to collaboration, learning, and sharing knowledge within high-performance teams.
+I’m a technology enthusiast passionate about building intelligent, scalable, and impactful digital solutions. With a strong background in full stack development and applied AI, I bring both execution and strategic vision to every project. My mission is to create products that bridge innovation and business value—especially within the financial sector.
 
 ---
 
 ## 🏷️ Key Skills
 
-`Node.js` · `Angular` · `TypeScript` · `Python` · `Azure` · `CI/CD` · `APIs` · `LLMs` · `RAG` · `Prompt Engineering` · `Tool Calling` · `Fintech Innovation` · `Full Stack Development` · `Banking Ecosystems`
+`Node.js` · `Angular` · `TypeScript` · `Python` · `Azure (Functions, APIM, Pipelines)` · `CI/CD` · `APIs`  
+`LLMs` · `RAG` · `Prompt Engineering` · `Tool Calling` · `Generative AI` · `Full Stack Development`  
+`Digital Banking` · `Automation` · `AI-Powered Workflows`
 
 ---
 
 ## 🤝 Let’s Connect
 
-Do you have an idea or opportunity where we could collaborate?  
-I’m open to new challenges in software development, AI, or digital banking innovation.
+Do you have a challenge or opportunity in tech, AI, or digital transformation?  
+Let’s connect and explore how I can contribute.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@OlvisQuintana-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/olvisquintana/)
-
 [![Email](https://img.shields.io/badge/quintanaolvis@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:quintanaolvis@gmail.com)
-
-[![Github](https://img.shields.io/badge/Github-quintanaolvis-487FCF?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/olvisquintana)
+[![GitHub](https://img.shields.io/badge/GitHub-quintanaolvis-487FCF?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/olvisquintana)
+[![Call](https://img.shields.io/badge/Call-%2B51%20935%20220229-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)]([tel:+51935220229](https://api.whatsapp.com/send?phone=51935123456&text=Hello%20from%20github))
